@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi I'm Kittisak, Welcome to my Github profile 👋
+🙋 สวัสดีครับ ผม กิตติศักดิ์ เที่ยงบุตร (ตะวัน) เป็นคนที่ชอบศึกษาหาความรู้ในด้านการเขียนโปรแกรม เพื่อพัฒนาทักษะของตัวเองอย่างต่อเนื่อง และเมื่อมีโอกาสจะนำความรู้ที่ได้ศึกษามาแบ่งปันกับทุกคนที่สนใจในการเขียนโปรแกรม💬
 
-🔭 I’m currently working on my youtebe channel.
+⚡ I’m currently working on my youtube channel.
+
+👯 I’m currently learning Programming & more 😄
 
 <!--
 **TKittisak/TKittisak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
